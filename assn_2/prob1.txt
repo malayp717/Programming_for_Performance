@@ -1,0 +1,5 @@
+./prob1/1.txt
+./prob1/2.txt
+./prob1/3.txt
+./prob1/4.txt
+./prob1/5.txt
