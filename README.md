@@ -1,4 +1,6 @@
-Assignment 1 - Cache Analysis
-Assignment 2 - Pthreads
-Assignment 3 - OpenMP
-Assignment 4 - CUDA
+## Assignments
+
+- Assignment I - Cache Analysis
+- Assignment II - Pthreads
+- Assignment III - OpenMP
+- Assignment IV - CUDA
